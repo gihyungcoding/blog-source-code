@@ -1,7 +1,7 @@
 package com.example.springbootredis.config;
 
 import com.example.springbootredis.config.properties.RedisProperties;
-import com.example.springbootredis.member.application.RedisListener;
+import com.example.springbootredis.member.application.event.RedisListener;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.context.annotation.Bean;

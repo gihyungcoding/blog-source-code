@@ -1,4 +1,4 @@
-package com.example.springbootredis.member.service;
+package com.example.springbootredis.member.application.service;
 
 import com.example.springbootredis.member.model.Member;
 

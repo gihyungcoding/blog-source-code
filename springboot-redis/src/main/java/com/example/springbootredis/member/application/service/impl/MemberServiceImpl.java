@@ -1,8 +1,8 @@
-package com.example.springbootredis.member.service.impl;
+package com.example.springbootredis.member.application.service.impl;
 
+import com.example.springbootredis.member.application.service.MemberService;
 import com.example.springbootredis.member.model.Member;
 import com.example.springbootredis.member.model.MemberStatus;
-import com.example.springbootredis.member.service.MemberService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.data.redis.core.RedisTemplate;
